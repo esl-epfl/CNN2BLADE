@@ -16,3 +16,6 @@ To run a CNN with one subarray configuration:
 Or, to run the CNN considering various sizes of subarray and architectures: 
 
  ```'python RunMultiple.py X'  ```
+
+
+ The file custom.py inside models privides the explanation for how to describe a CNN to be compabitle with this code. 
