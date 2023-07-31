@@ -11,7 +11,7 @@
 # -- of the conv tilling. It is also used by RunMultiple.py
 #
 #
-# > 'python RunMultiple.py X' where X is: 
+# > 'python RunSingle.py X' where X is: 
 # 
 # -----> 1 - GoogleNet
 # -----> 2 - Mobilenet

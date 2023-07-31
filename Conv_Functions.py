@@ -7,7 +7,7 @@
 # -- Company            : EPFL - ESL 
 # -- Created     	    : Mon Aug 1 2021
 # --------------------------------------------------------------------------------
-# -- Module description : 
+# -- Module description : all the function to tile and map CNN in subarrays. 
 # --------------------------------------------------------------------------------
 
 
